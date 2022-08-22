@@ -3,7 +3,7 @@ I'm a college student currently working towards a career in plant genetics. I'm 
 
 Projects:
 - GeneProject (name isn't a focus, subject to change) 
-  - An artificial selection simulator with a focus on the genetic perspective. Will simulate corssing over of chromosomes, multiple gene expression, gene regulation, and is currently looking at being built using neural networks for genome-phenome mapping. Is my first and biggest venture into C++ programming.
+  - An artificial selection simulator with a focus on the genetic perspective. Will simulate crossing over of chromosomes, multiple gene expression, gene regulation, and is currently looking at being built using neural networks for genome-phenome mapping. Is my first and biggest venture into C++ programming.
 
 
 
