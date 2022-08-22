@@ -1,5 +1,5 @@
 - 👋 Hi, I’m EternalFlam3-14
-I'm a college student currently working towards a career in plant genetics. I'm an amateur coding hobbyist learning how to code C++ with my current project.
+I'm a college student currently working towards a career in plant genetics. I'm an amateur programming hobbyist learning how to code C++ with my current project.
 
 Projects:
 - GeneProject (name isn't a focus, subject to change) 
